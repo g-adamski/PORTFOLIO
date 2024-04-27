@@ -32,6 +32,63 @@
 
 
 
+## <a name="courses">COURSES</a>
+
+### December 2023
+
+<a href="https://drive.google.com/file/d/1RlK-fJRBEsWOE-f99gjcvDncFkgy_z4g/view?usp=sharing" target="_blank">6 month course of QA Engineer at GoIT</a>
+
+- SCRUM methodology
+- AGILE approach
+- writing test cases
+- using Jira to bug reporting
+- API tests ( Postman ) - basics
+- SQL
+- GIT - basics
+- using DevTools
+- testing web applications
+- testing mobile applications
+- creating test reports
+- white box and black box testing methods
+
+
+## <a name="tools">TOOLS</a>
+
+- **MySQL** - a relational database management system that is based on structured query language (SQL)
+- **Xampp** - free and open-source cross-platform web server solution
+- **Jira** - a suite of agile work management solutions that powers collaboration across all teams from concept to customer
+- **GitHub** - a code hosting platform for version control and collaboration
+- **GIT** - a distributed version control system that tracks changes in any set of computer files
+- **Postman** - an API platform for building and using APIs.
+- **Slack** - a messaging app for business that connects people to the information they need
+
+## <a name="techskills">TECH SKILLS</a>
+
+- knowledge of **testing procedures** and the creation of **test documentation**
+- **DevTools** knowledge
+- **SQL** knowledge
+- understanding of different delivery **methodologies** (e.g., agile, waterfall, v-model)
+- communicative **English**
+
+## <a name="softskills">SOFT SKILLS</a>
+
+:one: precision and attention to quality
+
+:two: communication and teamwork skills
+
+:three: critical thinking
+
+:four: ability to learn new tools, systems and processes quickly
+
+:five: thinking outside the box
+
+:six: problem solving and analytical skills
+
+:seven: desire for self-development
+
+:eight: energetic and motivated
+
+:nine: well-organized
 
 
 
