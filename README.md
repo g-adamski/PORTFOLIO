@@ -12,6 +12,52 @@
 ### <p align="center"><a href="https://www.linkedin.com/in/grzegorz-adamski-221621246/" target="_blank"> Visit my <b>LinkedIn</b> profile</a></p>
 
 
+
+### <a name="projects">PROJECTS</a>
+
+- ### ***WALLET 12/2023*** organised by GoIT - Manual testing
+
+  *( 1 week sprint )*
+
+  Project scope:
+  
+  - learning to report bugs
+  
+  - learning to create test cases
+  
+  - creating my own collections based on Trello documentation
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
 <!---
 g-adamski/g-adamski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
