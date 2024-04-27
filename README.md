@@ -55,7 +55,6 @@
 ## <a name="tools">TOOLS</a>
 
 - **MySQL** - a relational database management system that is based on structured query language (SQL)
-- **Xampp** - free and open-source cross-platform web server solution
 - **Jira** - a suite of agile work management solutions that powers collaboration across all teams from concept to customer
 - **GitHub** - a code hosting platform for version control and collaboration
 - **GIT** - a distributed version control system that tracks changes in any set of computer files
