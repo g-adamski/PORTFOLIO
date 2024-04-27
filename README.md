@@ -18,6 +18,7 @@
 - ### ***WALLET 12/2023*** organised by GoIT - Manual testing
 
   *( 1 week sprint )*
+:arrow_forward: <a href="https://github.com/g-adamski/Project-Wallet" target="_blank">Project repository: Project Wallet</a>
 
   Project scope:
   
