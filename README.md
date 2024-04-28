@@ -13,11 +13,12 @@
 
 
 
-### <a name="projects">PROJECTS</a>
+## <a name="projects">PROJECTS</a>
 
 - ### ***WALLET 12/2023*** organised by GoIT - Manual testing
 
   *( 1 week sprint )*
+  
 :arrow_forward: <a href="https://github.com/g-adamski/Project-Wallet" target="_blank">Project repository: Project Wallet</a>
 
   Project scope:
@@ -36,7 +37,7 @@
 
 ### December 2023
 
-<a href="https://drive.google.com/file/d/1RlK-fJRBEsWOE-f99gjcvDncFkgy_z4g/view?usp=sharing" target="_blank">6 month course of QA Engineer at GoIT</a>
+:arrow_forward: <a href="https://drive.google.com/file/d/1RlK-fJRBEsWOE-f99gjcvDncFkgy_z4g/view?usp=sharing" target="_blank">6 month course of QA Engineer at GoIT</a>
 
 - SCRUM methodology
 - AGILE approach
@@ -88,6 +89,14 @@
 :eight: energetic and motivated
 
 :nine: well-organized
+
+
+## <a name="websites">WEBSITES</a>
+
+- [uTest](https://www.utest.com/) 
+- [Testbirds](https://nest.testbirds.com/) 
+- [Game Tester](https://gametester.gg/)
+
 
 
 
