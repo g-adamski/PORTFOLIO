@@ -35,6 +35,17 @@
 
 ## <a name="courses">COURSES</a>
 
+### May 2024
+
+:arrow_forward: <a href="https://www.udemy.com/certificate/UC-0485f608-f96e-4542-836c-57c39a75d3aa/" target="_blank">Basics of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy</a>
+
+- testing theory
+- writing test cases
+- bug reporting
+- software development models
+- Jira
+- qTest
+
 ### December 2023
 
 :arrow_forward: <a href="https://drive.google.com/file/d/1RlK-fJRBEsWOE-f99gjcvDncFkgy_z4g/view?usp=sharing" target="_blank">6 month course of QA Engineer at GoIT</a>
