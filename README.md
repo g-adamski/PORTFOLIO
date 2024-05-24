@@ -36,6 +36,15 @@
 ### May 2024
 
 
+:arrow_forward: <a href="https://www.udemy.com/certificate/UC-c5dbfa6a-3e34-4dce-a47c-7b4ca6613f1a/" target="_blank">Postman from scratch - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy</a>
+
+- Postman
+- sending requests
+- defining environments
+- defining variables
+- REST API testing
+
+
 :arrow_forward: <a href="https://www.udemy.com/certificate/UC-81bf6b8a-54fd-45dc-9992-343c9868a9e4/" target="_blank">SQL from scratch | MySQL ('Kurs SQL od podstaw | MySQL') - Udemy</a>
 
 - SQL
