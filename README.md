@@ -35,6 +35,18 @@
 
 ### May 2024
 
+:arrow_forward: <a href="https://www.udemy.com/certificate/UC-c65a723f-0840-4d56-bdf1-1b0fe124935d/" target="_blank">Practical software testing course ('Praktyczny kurs testowania oprogramowania') - Udemy</a>
+
+- exploratory testing
+- using DevTools
+- using Jira to bug reporting
+- Postman - basics
+- GIT - basics
+- OWASP ZAP - basics
+- JMeter - basics
+- BrowserStack
+- SQL
+
 
 :arrow_forward: <a href="https://www.udemy.com/certificate/UC-c5dbfa6a-3e34-4dce-a47c-7b4ca6613f1a/" target="_blank">Postman from scratch - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy</a>
 
